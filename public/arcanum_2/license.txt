@@ -1,0 +1,11 @@
+Model Information:
+* title:	Arcanum 2
+* source:	https://sketchfab.com/3d-models/arcanum-2-85be7d115e234759a31dd5cd3cd9a37b
+* author:	georgiyhazankin (https://sketchfab.com/georgiyhazankin)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Arcanum 2" (https://sketchfab.com/3d-models/arcanum-2-85be7d115e234759a31dd5cd3cd9a37b) by georgiyhazankin (https://sketchfab.com/georgiyhazankin) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
